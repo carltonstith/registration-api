@@ -1,0 +1,30 @@
+Me
+* src
++---* app
+|   |--* components
+|   |  |--user.component.ts|.html|.scss
+|   |  |--registration.component.ts|.html|.scss
+|   |
+|   |--* services
+|   |  |--user.service.ts
+|   |
+|   |--app.module.ts
+|   |--app.routing.module.ts
+|
+|--index.html (Bootstrap cdn)
+
+CodePerfection
+● src
++---● app
+|   +--● user
+|   |  |--user.component.ts|.html|.css
+|   |  +--● registration
+|   |  |  |--registration.component.ts|.html|.css
+|   |  |
+|   |  +--● shared
+|   |     |--user.service.ts
+|   |
+|   |--app.module.ts
+|   |--app-routing.module.ts (route configs.)
+|
+|--index.html (cdn path for bootstrap)
